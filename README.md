@@ -1,0 +1,5 @@
+<b> .env contents </b> <br>
+OPENAI_API_KEY= <br>
+LANGCHAIN_API_KEY= <br>
+LANGCHAIN_TRACING_V2=true <br>
+LANGCHAIN_PROJECT=MULTIMODALRAG <br>
