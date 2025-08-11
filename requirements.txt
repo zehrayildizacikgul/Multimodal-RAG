@@ -1,0 +1,27 @@
+# Core LangChain libraries
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+langchain-openai>=0.2.0
+
+# Vector store
+chromadb>=0.4.14
+
+# OpenAI client
+openai>=1.0.0
+
+# Data handling
+pandas>=1.5.3
+numpy>=1.23.5
+uuid
+
+# Jupyter Notebook
+notebook
+ipykernel
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Optional: if you use PDF or image parsing
+pypdf>=3.9.0
+pillow>=9.5.0
